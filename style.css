@@ -126,4 +126,11 @@ body {
         margin: 3%;
         border-radius: 5px;
     }
+
+    h1 {
+        text-align: center;
+        text-decoration: underline;
+        padding-bottom: 10px;
+        font-style: italic;
+    }
 }
